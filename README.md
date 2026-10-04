@@ -51,7 +51,7 @@ The application allows users to register and log in, create articles, upload fea
 
 ### 📚 All Posts
 
-![All Posts](./public/screenshots/AllPosts.png)
+![All Posts](./public/screenshots/AllPost.png)
 
 ## 🚀 Getting Started
 
