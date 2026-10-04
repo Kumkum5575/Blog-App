@@ -39,19 +39,19 @@ The application allows users to register and log in, create articles, upload fea
 
 ### 🔐 Sign In
 
-![Sign In](./public/screenshots/Sign%20In.png)
+![Sign In](./public/screenshots/SignIn.png)
 
 ### 📝 Sign Up
 
-![Sign Up](./public/screenshots/Sign%20Up.png)
+![Sign Up](./public/screenshots/SignUp.png)
 
 ### ✍️ Add Article
 
-![Add Article](./public/screenshots/Add%20Article.png)
+![Add Article](./public/screenshots/AddArticle.png)
 
 ### 📚 All Posts
 
-![All Posts](./public/screenshots/All%20Posts.png)
+![All Posts](./public/screenshots/AllPosts.png)
 
 ## 🚀 Getting Started
 
@@ -108,10 +108,10 @@ project/
 ├── public/
 │   └── screenshots/
 │       ├── Home.png
-│       ├── Sign In.png
-│       ├── Sign Up.png
-│       ├── Add Article.png
-│       └── All Posts.png
+│       ├── SignIn.png
+│       ├── SignUp.png
+│       ├── AddArticle.png
+│       └── AllPosts.png
 ├── src/
 │   ├── appwrite/
 │   ├── components/
